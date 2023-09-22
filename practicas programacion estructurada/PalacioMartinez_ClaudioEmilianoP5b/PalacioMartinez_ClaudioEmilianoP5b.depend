@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663181776 source:c:\users\user\desktop\practicas programacion estructurada\.vscode\palaciomartinez_claudioemilianop5b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
